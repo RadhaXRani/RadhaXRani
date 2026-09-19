@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RadhaXRani/RadhaXRani/main/avatar.jpg" width="150" height="150" style="border-radius:50%;"/>
+<img src="https://files.catbox.moe/g0zhfv.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
+<img src="https://files.catbox.moe/vob8fk.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
+<img src="https://files.catbox.moe/1zvhgo.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
 
 <br/><br/>
 
@@ -59,12 +61,6 @@ Building & deploying production-ready bots and apps | 1000+ repos shipped
 
 <img src="https://github-readme-stats.vercel.app/api?username=RadhaXRani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadhaXRani&theme=radical&hide_border=true" height="150"/>
-
-<br/><br/>
-
-<img src="https://files.catbox.moe/g0zhfv.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
-<img src="https://files.catbox.moe/vob8fk.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
-<img src="https://files.catbox.moe/1zvhgo.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
 
 <br/><br/>
 
