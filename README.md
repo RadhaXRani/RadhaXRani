@@ -35,18 +35,38 @@
 
 </div>
 
-<table align="center">
-<tr><th>Bot</th><th>Stack</th><th>Highlights</th></tr>
-<tr><td>⭐ <b>Radha</b></td><td>Pyrofork + MongoDB</td><td>Subscription tiers, coin economy, referrals</td></tr>
-<tr><td>🤖 <b>AI Assistant Bot</b></td><td>Multi-provider (Gemini + fallback)</td><td>Smart failover, unified AI bot</td></tr>
-</table>
+<div align="center">
+
+```bash
+$ whoami
+Radha — Telegram Bot Developer | Web Developer | App Developer
+
+$ skills --list
+[✓] Telegram Bot Development      (Python, Pyrogram, Pyrofork, AsyncIO)
+[✓] Bot Monetization Systems      (Subscriptions, Coin Economy, Referrals)
+[✓] Web Development               (Full Stack)
+[✓] App Development               (Android)
+[✓] Database Design               (MongoDB)
+[✓] Deployment & DevOps           (Render, Docker)
+
+$ status --current
+Building & deploying production-ready bots and apps | 1000+ repos shipped
+```
+
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RadhaXRani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadhaXRani&theme=radical&hide_border=true" height="150"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://files.catbox.moe/g0zhfv.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
+<img src="https://files.catbox.moe/vob8fk.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
+<img src="https://files.catbox.moe/1zvhgo.jpg" width="32%" style="border:2px solid #39ff14; border-radius:8px;"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
 
