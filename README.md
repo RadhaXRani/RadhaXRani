@@ -2,7 +2,16 @@
 
 <img src="https://raw.githubusercontent.com/RadhaXRani/RadhaXRani/main/avatar.jpg" width="150" height="150" style="border-radius:50%;"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=RadhaXRani&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Telegram%20Bot%20Developer%20%7C%201000%2B%20Repos%20Deployed&descAlignY=60&descSize=14"/>
+<br/><br/>
+
+# 🍃⏤͟ 𝗥ᴀᴅʜᴀ 𓆩♡𓆪 𝗞ʀɪꜱʜɴᴀ 🪈᪵᪳
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Telegram%20Bot%20Developer-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1000%2B-Repos%20Deployed-4ADE80?style=for-the-badge"/>
+
+<br/><br/>
 
 <a href="https://t.me/RadhaKiAasiyana"><img src="https://img.shields.io/badge/Channel-RadhaKiAasiyana-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/DisscussionRadha"><img src="https://img.shields.io/badge/Group-DisscussionRadha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -28,7 +37,7 @@
 
 <table align="center">
 <tr><th>Bot</th><th>Stack</th><th>Highlights</th></tr>
-<tr><td>⭐ <b>SHANAYA</b></td><td>Pyrofork + MongoDB</td><td>Subscription tiers, coin economy, referrals</td></tr>
+<tr><td>⭐ <b>Radha</b></td><td>Pyrofork + MongoDB</td><td>Subscription tiers, coin economy, referrals</td></tr>
 <tr><td>🤖 <b>AI Assistant Bot</b></td><td>Multi-provider (Gemini + fallback)</td><td>Smart failover, unified AI bot</td></tr>
 </table>
 
